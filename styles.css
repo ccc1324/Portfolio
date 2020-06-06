@@ -124,4 +124,8 @@ a{
     font-size: 2em;
 }
 
-
+#resume{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 4px;
+    border: 2px solid black;
+}
